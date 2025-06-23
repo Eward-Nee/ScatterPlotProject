@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    text-align: center;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.svgContainer {
+    text-align: center;
+}
+
+.highlight {
+    fill: black !important;
+}
